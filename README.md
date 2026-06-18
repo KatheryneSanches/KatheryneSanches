@@ -59,6 +59,3 @@ De Auxiliar Administrativa a graduanda em **Ciência da Computação**. Atualmen
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KatheryneSanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Status do GitHub de Katheryne" />
-</div>
